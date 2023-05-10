@@ -1,7 +1,7 @@
 # -VaccinationBooking Using UiPath
 
 
-##Introduction
+## Introduction
 Purpose
 The purpose of this document is to build automation to improve booking processes. This is to address mundane and tedious booking processes where staffs have to check of apppointment slots and confirm with clients their free timeslots before the appointment can be booked. This requires several back and forth emails which can made redundent with the automation. 
 
