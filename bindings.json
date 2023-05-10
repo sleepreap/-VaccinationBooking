@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "Connection",
+      "metadata": {
+        "ConnectionId": {
+          "defaultValue": "693f725b-9dc1-ed11-ba77-0003ffe7e379",
+          "isExpression": false,
+          "displayName": "Connection",
+          "description": "The connection to be used."
+        },
+        "UseConnectionService": {
+          "defaultValue": "True",
+          "isExpression": false,
+          "displayName": "Use Integration Service",
+          "description": "Uses the Integration Service to authenticate to the service."
+        },
+        "Connector": {
+          "defaultValue": "uipath-google-gmail",
+          "isExpression": false
+        },
+        "BindingsVersion": {
+          "defaultValue": "2.1",
+          "isExpression": false
+        }
+      }
+    }
+  ]
+}

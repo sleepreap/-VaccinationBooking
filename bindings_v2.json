@@ -1,0 +1,22 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "Connection",
+      "key": "693f725b-9dc1-ed11-ba77-0003ffe7e379",
+      "value": {
+        "ConnectionId": {
+          "defaultValue": "693f725b-9dc1-ed11-ba77-0003ffe7e379",
+          "isExpression": false,
+          "displayName": "Connection",
+          "description": "The connection to be used."
+        }
+      },
+      "metadata": {
+        "UseConnectionService": "True",
+        "Connector": "uipath-google-gmail",
+        "BindingsVersion": "2.1"
+      }
+    }
+  ]
+}
